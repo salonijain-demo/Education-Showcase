@@ -1,0 +1,1 @@
+export const auto_complete='http://universities.hipolabs.com/search?name=';
